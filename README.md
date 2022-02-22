@@ -277,7 +277,7 @@ _DoSomething1_ and _DoSomething2_ methods have similar algorithms and they produ
 
 ### Sub-task 6
 
-Implement the [DoSomething](IfElseStatements/Task6.cs#L5) method in the _Task6_ class using **cascading** _if_ statements. The flowchart below shows the algorithm the code should conform to.
+Implement the [DoSomething](IfElseStatements/Task6.cs#L5) method in the _Task6_ class using **cascading** _if-else_ statements. The flowchart below shows the algorithm the code should conform to.
 
 ![Task 6 Flowchart](images/task6.png)
 
