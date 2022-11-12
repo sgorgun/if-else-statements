@@ -6,11 +6,11 @@
         {
             int result = 0;
 
-            if (!b1)
+            if (b1)
             {
-                if (!b2 || !b3)
+                if (b2 || !b3)
                 {
-                    if (!b4)
+                    if (b4)
                     {
                         result = 1;
                     }
@@ -33,7 +33,7 @@
             }
             else
             {
-                if (!b2 || b4)
+                if (b2 || !b4)
                 {
                     if (!b3)
                     {
@@ -46,7 +46,7 @@
                 }
                 else
                 {
-                    if (!b3)
+                    if (b3)
                     {
                         result = 7;
                     }
